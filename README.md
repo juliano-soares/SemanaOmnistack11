@@ -24,7 +24,7 @@
 ## Projeto:
 
 <p>
-O projeto foi desenvolvido durante a Semana Omnistack 11 ministrada pela Rockseat. Consiste em uma aplicação na qual a parte web é voltada para Ongs adicionar caso que necessitam de um herói. Já na versão mobile heróis pedem ver os casos listados, obter um detalhamento e ter acesso a formas de como contatar a ong para ajudar. 
+O projeto foi desenvolvido durante a Semana Omnistack 11 ministrada pela Rocketseat. Consiste em uma aplicação na qual a parte web é voltada para Ongs adicionar caso que necessitam de um herói. Já na versão mobile heróis pedem ver os casos listados, obter um detalhamento e ter acesso a formas de como contatar a ong para ajudar. 
 </p>
 
 ## Protótipos:
